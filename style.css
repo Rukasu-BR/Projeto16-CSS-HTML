@@ -27,7 +27,7 @@ span a{
 span a:before,
 span a:after{
   position: absolute;
-  content: "BUTTON";
+  content: "BOTÃO";
   height: 55px;
   width: 180px;
   display: flex;
